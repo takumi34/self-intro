@@ -26,7 +26,7 @@ Under CC0 license.</span>
 ## 経歴
 * 慶應法学部法律学科卒
   * 法哲学をやっていた
-  * 正義とはなにか?
+  * テーマ: 正義とはなにか?
 
 * Githubアカウント: @takumi34
 * [ブログ](https://takumi34.github.io/)
@@ -35,7 +35,7 @@ Under CC0 license.</span>
 
 ## 技術スタック
 * 基本的にはサーバサイド
-  * GoとかgRPCをやっています(やりたい)
+  * GoとかgRPCをやっています(<span style="color:#F02060;">やりたい</span>)
 * なぜかこの前まではAngularをやっていた
   * TypeScriptを書いて、HTMLとCSSとをにらめっこする毎日
 * その前はSpringBoot
@@ -53,13 +53,13 @@ Under CC0 license.</span>
 
 ## 開発環境
 
-* PC: thinkpad x1 carbon
-* OS: ubuntu 19.10（arch linuxに移行したいと言いながらはや数年)
-* Editor: Neovim(と言いながら最近はVSCodeを使っている)
+* PC: Thinkpad x1 carbon
+* OS: Ubuntu 19.10（Arch Linuxに移行したいと言いながら, はや数年)
+* Editor: Neovim(と言いながら最近はVSCodeを使っている. JetBrainsも最高.)
 
 ----
  
-## アジャイル開発が好き
+## Agile開発(XP)が好き
 * ペアプロ
 * モブプロ ← 四六時中やりたい
 * TDD
@@ -69,6 +69,7 @@ Under CC0 license.</span>
 ## 近況報告
 * 在宅勤務生産性向上のために椅子を買った
     * [エルゴヒューマンプロ](https://www.ergohuman.jp/product/ergohuman_pro_ottoman.php) 約10万円のオフィスチェア
-* LGの曲面ディスプレイも買いたい(約13万円)
+* 38インチ曲面ディスプレイも買いたい(約14万円)
+    * [U3818DW 37.5インチワイド曲面モニター](https://www.dell.com/ja-jp/shop/dell-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-u3818dw-375%E3%82%A4%E3%83%B3%E3%83%81%E3%83%AF%E3%82%A4%E3%83%89%E6%9B%B2%E9%9D%A2%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC/apd/210-amwr/%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC-%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC)
 
 

@@ -2,5 +2,5 @@
 
 * how to build
 ```bash
-pandoc -t revealjs -s  -V theme:night --self-contained input.md -o index.html
+pandoc -t revealjs -s  -V theme:night -V transition=fade --self-contained input.md -o index.html
 ```
